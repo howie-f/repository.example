@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.fhw" name="Frank's repository" version="1.0.0" provider-name="Frank H.">
+<addon id="repository.fhw" name="Example repository" version="1.0.0" provider-name="fhw">
     <extension point="xbmc.addon.repository" name="Example Repository">
         <dir>
             <info compressed="false">https://raw.githubusercontent.com/howie-f/repository.fhw/master/zips/addons.xml</info>
@@ -8,8 +8,8 @@
         </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <summary>Frank's repository</summary>
-        <description>Awesome description</description>
+        <summary>Example repository</summary>
+        <description>Example description</description>
         <disclaimer></disclaimer>
         <platform>all</platform>
         <assets>
